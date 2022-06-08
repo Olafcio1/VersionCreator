@@ -1,5 +1,5 @@
 # VersionCreator
-Create versions easily.
+Manager versions easily.
 ## What this program do?
 This program allows to make directories with versions, copying projects to version directories and make changelog.
 ## Version 'Creator'?
